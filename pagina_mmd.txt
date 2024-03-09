@@ -1,3 +1,8 @@
-Página para acceder al proyecto "Mi Menu Digital"
+"Mi Menu Digital"
 
+Sistema de servicio inteligente, diseñado para restaurantes y hoteles, con el objetivo de optimizar diversos procesos operativos y hacer más ágil y sencillas las actividades de atención y administración de de dichos establecimientos. 
+
+Herramientas: HTML, CSS, Javascript, PHP, Laragon, SQL, Bootstrap  y Stripe
+
+Pagina para acceder al proyecto
 https://mi-menudigital.000webhostapp.com/md_login/inicio.php
